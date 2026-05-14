@@ -20,7 +20,7 @@ git clone https://github.com/username/PythonOpenBrowser.git
 cd PythonOpenBrowser
 ```
 
-## 基本的な使い方
+### 基本的な使い方
 ```bash
 python OpenBrowser.py
 ```
@@ -42,17 +42,17 @@ python OpenBrowser.py
 - Libraries: `http.server`, `socketserver`, `webbrowser`
 
 ## Usage
-## Prerequisites
+### Prerequisites
 - Python 3 installed.
 - An `index.html` (or other static files) present in the working directory.
 
-## Install
+### Install
 ```bash
 git clone https://github.com/username/PythonOpenBrowser.git
 cd PythonOpenBrowser
 ```
 
-## Basic usage
+### Basic usage
 ```bash
 python OpenBrowser.py
 ```

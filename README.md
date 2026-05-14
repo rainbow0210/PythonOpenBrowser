@@ -10,11 +10,11 @@
 - ライブラリ/フレームワーク: `http.server`, `socketserver`, `webbrowser`
 
 ## 使い方
-## 前提条件
+### 前提条件
 - Python 3 がインストールされていること。
 - 作業ディレクトリに表示したい `index.html`（または静的ファイル群）が存在すること。
 
-## インストール方法
+### インストール方法
 ```bash
 git clone https://github.com/username/PythonOpenBrowser.git
 cd PythonOpenBrowser
